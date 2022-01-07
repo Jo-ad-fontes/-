@@ -2,7 +2,8 @@
 
 ## public 4위 → private 43위
 
-FinanceDataReader 패키지를 통해서 국내 및 해외 주식의 정보를 얻을 수 있었다.  [FinanceDataReader 사용법](https://financedata.github.io/posts/finance-data-reader-users-guide.html)
+FinanceDataReader 패키지를 통해서 국내 및 해외 주식의 정보를 얻을 수 있었다.  <a href="https://financedata.github.io/posts/finance-data-reader-users-guide.html" target="_blank">FinanceDataReader 사용법</a>
+
 
 원달러 환율, 비트코인, 증권거래소 관련 정보도 존재한다.
 
